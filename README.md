@@ -47,3 +47,7 @@
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=150&section=footer"/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Henriquegp1/Henriquegp1/output/github-snake.svg" alt="Jogo da Cobrinha" />
+</p>
