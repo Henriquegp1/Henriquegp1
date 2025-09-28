@@ -1,4 +1,4 @@
- <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0077BE&height=180&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=150&section=header"/>
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077BE&width=435&lines=Prazer%2C+eu+sou+o+Henrique!;Desenvolvedor+Backend+em+forma%C3%A7%C3%A3o.;Sempre+estudando+e+evoluindo." alt="Typing SVG" />
@@ -44,4 +44,5 @@
   <a href = "mailto:SEU-EMAIL-AQUI"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0077BE&height=120&section=footer"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=150&section=footer"/>
