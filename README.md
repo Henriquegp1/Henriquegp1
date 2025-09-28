@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type =waving&color=ff91a4&height=120&section=header" />
+
 ### Olá, eu sou o Henrique! 👋
 
 Sou um estudante de programação apaixonado por resolver problemas e criar soluções práticas com tecnologia. Atualmente estou focado em aprimorar minhas habilidades em Python e desenvolvimento backend.
