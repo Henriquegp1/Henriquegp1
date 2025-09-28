@@ -1,4 +1,4 @@
-<img width=100% src="[https://capsule-render.vercel.app/api?type =waving&color=ff91a4&height=120&section=header](https://github.com/Henriquegp1/meu-portfolio/blob/main/assets/jr-korpa-9XngoIpxcEo-unsplash.jpg?raw=true)" />
+<img width=100% src="https://github.com/Henriquegp1/meu-portfolio/blob/main/assets/jr-korpa-9XngoIpxcEo-unsplash.jpg?raw=true" />
 
 ### Olá, eu sou o Henrique! 👋
 
