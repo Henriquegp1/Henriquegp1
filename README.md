@@ -14,7 +14,7 @@
 </p>
 
 - 🛠️ **Projetos em destaque:**
-  - **[TalonMatchAlarm](https://github.com/Henriquegp1/Alarme-Overwach)** — sistema Windows + Android que detecta partidas encontradas no Overwatch via captura de tela e dispara alarme no celular em tempo real. Python (FastAPI, WebSocket, OpenCV) no PC, Java no Android, autenticação com token/hash+salt e Android Keystore (AES-256).
+  - **[GameSentinel](https://github.com/Henriquegp1/Alarme-Overwach)** — sistema Windows + Android que detecta partidas encontradas no Overwatch via captura de tela e dispara alarme no celular em tempo real. Python (FastAPI, WebSocket, OpenCV) no PC, Java no Android, autenticação com token/hash+salt e Android Keystore (AES-256).
   - **Sistema de Estoque (Projeto Integrador FAM)** — sistema de gestão de estoque para uma microempresa de confeitaria, em equipe de 7 pessoas. PHP + MySQL, responsivo, deploy via WebDAV.
   - **[Portfólio Pessoal](https://henriquegp-portfolio-zeta-eight.vercel.app/)** — vitrine dos meus projetos, construído em HTML/CSS/JS puro.
 
